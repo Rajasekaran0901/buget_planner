@@ -1,0 +1,6 @@
+{
+  "name": "Budget Planning Agent",
+  "description": "An AI-powered financial planning and budgeting assistant that analyzes spending patterns, categorizes transactions, and provides intelligent personalized recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
